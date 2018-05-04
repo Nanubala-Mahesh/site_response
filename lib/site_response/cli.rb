@@ -1,10 +1,6 @@
 require "thor"
 require "site_response"
 require "benchmark"
-# require 'net/http'
-require 'httparty'
-require 'net/http'
-require 'json'
 
 module SiteResponse
     class CLI < Thor
