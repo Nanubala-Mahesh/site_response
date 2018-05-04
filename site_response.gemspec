@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{site response}
   spec.description   = %q{Ruby gem that exposes a CLI to check the status of  WEBSITE and reports an average response time after probing the site every 10 seconds for a one minute.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/maheshbablu17/site_response"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
